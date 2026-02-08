@@ -6,3 +6,4 @@ print(df)
 average_sales = df["sales"].mean()
 print("Середнє значення:", average_sales)
 print("Це середній рівень продажів по трьох містах (Завдання 6.4)")
+# тест реверту
